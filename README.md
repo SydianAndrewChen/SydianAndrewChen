@@ -1,5 +1,5 @@
 - New game developer
-- CS student from CUHK(SZ)
+- CS student in CUHK(SZ)
 - Currently working as an intern at Netease(Hangzhou)
 
 <!---
