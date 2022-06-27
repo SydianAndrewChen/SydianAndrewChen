@@ -1,6 +1,7 @@
 - New game developer
 - CS student in CUHK(SZ)
-- Currently working as an intern at Netease(Hangzhou)
+- Worked as interns at Netease(Hangzhou) & Tencent(Shenzhen)
+- Year 4
 
 <!---
 SydianAndrewChen/SydianAndrewChen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
