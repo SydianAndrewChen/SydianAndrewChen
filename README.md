@@ -1,4 +1,4 @@
-- New game developer
+- New graphics and game developer
 - CS ug at CUHK(SZ)
 - CGGT graduate at UPenn
 - Worked as interns at Netease(Hangzhou) & Tencent(Shenzhen)
